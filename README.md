@@ -1,2 +1,1 @@
-# React-test-project
-Created with CodeSandbox
+A simple note poster React project created locally without the use of Git to experiment and improve my coding skills.
